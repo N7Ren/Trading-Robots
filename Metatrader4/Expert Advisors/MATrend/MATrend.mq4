@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                MySimpleTrend.mq4 |
+//|                                                		 MATrend.mq4 |
 //|                                                   Rene Kernegger |
 //| Adapted from the umdy course found here:                         |
 //| https://www.udemy.com/mql4-tutorial-bootcamp-trading-robot-coding-in-metatrader4/learn/v4/overview
