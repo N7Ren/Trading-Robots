@@ -34,6 +34,7 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
+   //checks if the trend is up or down according to a 14 week moving average
    double myMA = iMA(NULL, PERIOD_W1, 14, 5, 0, 0, 0);
    double myOldMA = iMA(NULL, PERIOD_W1, 14, 5, 0, 0, 10); 
    double trend = myMA - myOldMA;
